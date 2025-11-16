@@ -5,4 +5,10 @@ class HelloWorld{
 
     }
 
+    public stating void PrintName(string name){
+
+        System.Out.PrintLn("My name is "+ name);
+
+    }
+
 }
